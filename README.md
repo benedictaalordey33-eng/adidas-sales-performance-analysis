@@ -65,6 +65,19 @@ Examines sales revenue, operating profit, units sold and monthly sales trends ac
 This project provided an opportunity to apply data preparation, data modelling and visualization skills to a real-world sales analysis task. The interactive dashboard makes it easier to explore Adidas sales performance from different perspectives and identify useful business insights.
 
 
+## Dashboard Previews
+
+### 1. Sales Overview
+![Sales Overview](Screenshots/sales-overview.png)
+
+### 2. Product Details – Hidden Drill-Through Page
+![Product Details](Screenshots/product-details.png)
+
+### 3. Regional Performance
+![Regional Performance](Screenshots/regional-performance.png)
+
+### 4. Retailer Analysis
+![Retailer Analysis](Screenshots/retailer-analysis.png)
 
 **Project Type:** Sales Performance Analysis.  
 **Tool:** Microsoft Power BI.
